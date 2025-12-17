@@ -51,4 +51,5 @@ This repository is a simple static asset store for images used by other projects
 If you'd like, I can also add a short script to generate `srcset` entries or a small validation action to check image sizes on PRs.
 
 **Last Update:** 2025-12-17
+
 **Version:** v0.1
